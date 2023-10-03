@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">天河XL</string>
+    <string name="download">下载</string>
+    <string name="home">首页</string>
 </resources>
